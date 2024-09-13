@@ -1,0 +1,14 @@
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde05\bin\Debug\net8.0\tde05.exe
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde05\bin\Debug\net8.0\tde05.deps.json
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde05\bin\Debug\net8.0\tde05.runtimeconfig.json
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde05\bin\Debug\net8.0\tde05.dll
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde05\bin\Debug\net8.0\tde05.pdb
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde05\obj\Debug\net8.0\tde05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde05\obj\Debug\net8.0\tde05.AssemblyInfoInputs.cache
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde05\obj\Debug\net8.0\tde05.AssemblyInfo.cs
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde05\obj\Debug\net8.0\tde05.csproj.CoreCompileInputs.cache
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde05\obj\Debug\net8.0\tde05.dll
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde05\obj\Debug\net8.0\refint\tde05.dll
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde05\obj\Debug\net8.0\tde05.pdb
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde05\obj\Debug\net8.0\tde05.genruntimeconfig.cache
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde05\obj\Debug\net8.0\ref\tde05.dll
